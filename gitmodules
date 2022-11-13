@@ -1,0 +1,3 @@
+[submodule "library-management-server/library-mngt"]
+	path = library-management-server/library-mngt
+	url = https://git.heroku.com/library-mngt.git
